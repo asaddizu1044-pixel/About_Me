@@ -320,7 +320,6 @@ My goal is to combine:
 to build useful technology and eventually create products and businesses of my own.
 
 ---
-
 # GitHub Statistics
 
 <p align="center">
@@ -339,7 +338,6 @@ to build useful technology and eventually create products and businesses of my o
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaddizu1044-pixel&theme=github-compact&hide_border=true" alt="GitHub Activity">
 </p>
 
----
 
 # Connect
 
