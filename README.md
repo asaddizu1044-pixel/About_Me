@@ -320,14 +320,16 @@ My goal is to combine:
 to build useful technology and eventually create products and businesses of my own.
 
 ---
+
+
 # GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asaddizu1044-pixel&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=asaddizu1044-pixel&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddizu1044-pixel&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddizu1044-pixel&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -335,10 +337,13 @@ to build useful technology and eventually create products and businesses of my o
 # GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaddizu1044-pixel&theme=github-compact&hide_border=true" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaddizu1044-pixel&theme=github-compact&hide_border=true" alt="GitHub Activity" />
 </p>
 
+
 ---
+
+
 # Connect
 
 <p align="left">
