@@ -100,19 +100,12 @@ AI / SYSTEMS
 Currently in the loop:
 
 MERN Stack — building full-stack web applications
-
 AI Systems — developing conversational and AI-powered applications
-
 REST APIs — designing backend services and protected APIs
-
 MongoDB & MySQL — working with application data and database systems
-
 Linux — learning systems, shell, permissions, processes and administration
-
 Networking — strengthening OSI, TCP/IP, DNS, HTTP/HTTPS and routing concepts
-
 Android — exploring Android application development and deployment
-
 I learn primarily by building projects, solving implementation problems, and iterating on working systems.
 
 </td>
@@ -199,279 +192,141 @@ ENGINEERING → MERN · REST APIs · Linux · Networking
 
 🚀 FEATURED BUILDS
 
+<div align="center">
+
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
-🧠 Roxan AI
+01 — Roxan AI
 
 Intelligent Conversational Assistant
 
-An intelligent conversational assistant focused on local AI processing and context-aware conversations.
+Local-AI conversational assistant with persistent memory, real-time communication, authentication, and personalized conversations.
 
-Stack
-
-React.js Node.js Express.js MongoDB Socket.IO JWT Ollama Llama 2
-
-Features
-
-Local AI processing using Ollama
-
-Real-time chat with Socket.IO
-
-JWT authentication
-
-MongoDB chat history
-
-Context-aware conversations
-
-Preference memory
-
-Feedback-based learning
+Stack: React.js · Node.js · Express.js · MongoDB · Socket.IO · JWT · Ollama · Llama 2
 
 </td>
-
 <td width="50%" valign="top">
 
-🎙️ AI Voice Assistant
+02 — AI Voice Assistant
 
 Gemini-Powered Voice Assistant
 
-A full-stack voice-controlled assistant using natural language.
+Voice-controlled AI assistant with speech recognition, text-to-speech, wake-word detection, continuous listening, and real-time transcription.
 
-Stack
-
-React.js Tailwind CSS Node.js Express.js MongoDB Gemini AI
-
-Features
-
-Speech recognition
-
-Text-to-speech
-
-Wake-word detection
-
-Continuous listening
-
-Real-time transcription
-
-Cloudinary customization
-
-REST APIs
+Stack: React.js · Tailwind CSS · Node.js · Express.js · MongoDB · Gemini AI · Web Speech API
 
 </td>
-
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-🌾 HASGUL Multiprises
+03 — HASGUL Multiprises
 
 One Platform — Infinite Solutions
 
-A multi-sector service platform concept covering agriculture, dairy, aquatic, academic, professional, personal and staffing services.
+Multi-sector service platform concept covering agriculture, dairy, aquatic, academic, professional, personal, and staffing services.
 
-Stack
-
-MERN Stack REST APIs MongoDB Authentication
+Stack: MERN · REST APIs · MongoDB · Authentication
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
-🎓 Student Record Management API
+04 — Student Record Management API
 
 REST API for Student Management
 
-A REST API for students, courses and enrollments.
+API for students, courses, and enrollments with CRUD, search, filtering, sorting, pagination, validation, and statistics.
 
-Features
-
-Student CRUD
-
-Course CRUD
-
-Enrollment management
-
-Search and filtering
-
-Sorting
-
-Pagination
-
-Input validation
-
-Statistics dashboard
+Stack: Node.js · Express.js · MongoDB · REST API
 
 </td>
-
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
-📇 Contact Management System
+05 — Contact Management System
 
 Personal & Professional Contact Backend
 
-A backend system for managing contacts with search, categories, favorites, tags, duplicate prevention, soft delete and restore.
+Contact backend with CRUD, search, categories, favorites, tags, duplicate prevention, soft delete, restore, and pagination.
 
-Stack
-
-Node.js Express.js MongoDB REST API
+Stack: Node.js · Express.js · MongoDB · REST API
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
-✅ To-Do List Backend
+06 — To-Do List Backend
 
 Task Management Backend
 
-A protected task-management backend with authentication and task organization.
+Authenticated task-management backend with JWT, protected routes, task CRUD, priorities, categories, search, due dates, and statistics.
 
-Features
-
-Registration and login
-
-JWT authentication
-
-Protected routes
-
-Task CRUD
-
-Priorities
-
-Categories
-
-Search
-
-Due dates
-
-Task statistics
+Stack: Node.js · Express.js · MongoDB · JWT · REST API
 
 </td>
-
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
-🌦️ Weather Forecast Application
+07 — Weather Forecast Application
 
 Weather & PWA Application
 
-A weather application using the OpenWeatherMap API.
+Weather application using OpenWeatherMap with responsive UI, PWA support, service worker, caching, and offline-oriented functionality.
 
-Features
-
-Location/weather search
-
-Dynamic weather information
-
-Responsive interface
-
-PWA support
-
-Service worker
-
-Caching
-
-Offline-oriented functionality
-
-Stack
-
-HTML CSS JavaScript OpenWeatherMap API PWA
+Stack: HTML · CSS · JavaScript · OpenWeatherMap API · PWA
 
 </td>
-
-<td width="50%" valign="top">
-
-📊 Personal Tracker
-
-Personal Activity & Lifestyle Tracking
-
-A personal tracking application focused on activity monitoring.
-
-Features
-
-Step tracking
-
-Distance
-
-Calories
-
-Heart rate
-
-Live location
-
-Task tracking
-
-Sleep tracking
-
-Accelerometer-based step detection
-
-Stack
-
-JavaScript Web APIs Location APIs Sensors
-
-</td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-💻 Personal Portfolio
+08 — Personal Tracker
+
+Personal Activity & Lifestyle Tracking
+
+Activity-tracking application covering steps, distance, calories, heart rate, live location, tasks, sleep, and accelerometer-based step detection.
+
+Stack: JavaScript · Web APIs · Location APIs · Sensors
+
+</td>
+<td width="50%" valign="top">
+
+09 — Personal Portfolio
 
 Developer Portfolio
 
-A personal developer portfolio containing Home, About, Skills, Projects, Education, Achievements, Resume and Contact sections.
+Personal portfolio presenting profile, skills, projects, education, achievements, resume, and contact information.
 
-Stack
-
-HTML CSS JavaScript
+Stack: HTML · CSS · JavaScript
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
-📱 Android Smart Update Application
+10 — Android Smart Update Application
 
 Android Application Development
 
-An Android Studio project covering Android application development and deployment workflow.
+Android Studio project covering Android development, Android SDK, Gradle, emulator testing, APK generation, and deployment.
 
-Focus
-
-Android app development
-
-Gradle build system
-
-Android SDK
-
-Emulator testing
-
-APK generation
-
-Application deployment workflow
-
-Stack
-
-Android Studio Java/Kotlin Gradle Android SDK
+Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 </td>
-
+<td width="50%" valign="top"></td>
 </tr>
-
 </table>
+
+</div>
 
 <br/>
 
@@ -612,39 +467,61 @@ Android application development and deployment
 🎯 CURRENT FOCUS
 
 profile:
-  name: Md Dilkash
-  role: MERN Developer | Full-Stack Developer
-  focus: Software Engineering + AI + Systems
+name: Md Dilkash
+role: MERN Developer | Full-Stack Developer
+focus: Software Engineering + AI + Systems
 
 learning:
-  - Advanced MERN Stack
-  - Artificial Intelligence
-  - Linux
-  - Networking
-  - Systems
-  - Robotics
+
+Advanced MERN Stack
+
+Artificial Intelligence
+
+Linux
+
+Networking
+
+Systems
+
+Robotics
 
 building:
-  - AI Conversational Applications
-  - Voice Assistant
-  - REST APIs
-  - Full-Stack Applications
-  - Android Applications
+
+AI Conversational Applications
+
+Voice Assistant
+
+REST APIs
+
+Full-Stack Applications
+
+Android Applications
 
 exploring:
-  - Local AI
-  - Conversational AI
-  - Linux Systems
-  - Network Security
-  - Backend Architecture
-  - Robotics
+
+Local AI
+
+Conversational AI
+
+Linux Systems
+
+Network Security
+
+Backend Architecture
+
+Robotics
 
 open_to:
-  - Software Engineering Opportunities
-  - Full-Stack Development
-  - AI Projects
-  - Collaborative Development
-  - Open Source
+
+Software Engineering Opportunities
+
+Full-Stack Development
+
+AI Projects
+
+Collaborative Development
+
+Open Source
 
 <br/>
 
