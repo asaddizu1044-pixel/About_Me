@@ -1,338 +1,689 @@
-# Md Dilkash
+<div align="center">
 
-### MERN Developer | Full-Stack Developer | AI & Systems Enthusiast | Linux & Networking
+<!--
+  Md Dilkash | GitHub Profile README
+  MERN Developer | Full-Stack Developer | AI & Systems Enthusiast | Linux & Networking
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full-Stack+Application+Builder;AI+%26+Voice+Assistant+Developer;Linux+%26+Networking+Enthusiast;Building+Real-World+Projects;Future+Computer+Engineer" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,16,18&text=MD%20DILKASH&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=MERN%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Systems%20Enthusiast%20%7C%20Linux%20%26%20Networking&descAlignY=58&descSize=15" width="100%" alt="Md Dilkash banner"/>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=850&lines=MERN+Stack+Development;Full-Stack+Web+Applications;Artificial+Intelligence;Linux+%26+Networking;REST+APIs+%7C+MongoDB+%7C+MySQL;Building+Projects+%7C+Learning+by+Doing" alt="Typing SVG"/>
+</a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=850&color=ffffff&background=0D1117&center=true&vCenter=true&width=900&lines=MERN+Developer;Full-Stack+Developer;AI+%26+Systems+Enthusiast;Linux+%26+Networking;Building+real-world+projects;Exploring+intelligent+systems" alt="Animated role introduction"/>
+
+<br>
+
+<p>
   <a href="https://github.com/asaddizu1044-pixel">
-    <img src="https://img.shields.io/badge/GitHub-asaddizu1044--pixel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GITHUB-asaddizu1044--pixel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
 </p>
 
----
-
-# About Me
-
-Hi, I'm **Md Dilkash**, a **B.Tech Information Technology student and MERN Stack Developer** interested in building practical software applications and exploring artificial intelligence, systems, networking, and emerging technologies.
-
-I enjoy taking an idea from concept to implementation by working across the **frontend, backend, database, APIs, authentication, AI integration, and deployment environment**.
-
-My development journey has expanded from web development into **AI applications, Linux, networking, and software engineering**.
-
-# Technical Skills
-
-## Frontend
-
-`HTML5` `CSS3` `JavaScript` `React.js` `Tailwind CSS` `React Router` `Context API`
-
-## Backend
-
-`Node.js` `Express.js` `REST APIs` `JWT` `Socket.IO` `Middleware` `Authentication`
-
-## Databases
-
-`MongoDB` `MySQL`
-
-## Programming
-
-`Java` `C` `Data Structures & Algorithms`
-
-## Artificial Intelligence
-
-`Google Gemini` `Ollama` `Llama 2` `AI APIs` `Conversational AI` `Web Speech API`
-
-## Networking
-
-`OSI Model` `TCP/IP` `LAN` `WAN` `DNS` `HTTP/HTTPS` `IP Addressing` `Ports` `Routing Concepts` `Network Security`
-
-## Linux & Systems
-
-`Linux` `Bash` `Shell` `File Systems` `Permissions` `Processes` `Services` `Package Management` `Environment Variables` `System Administration`
-
-## Tools & Platforms
-
-`GitHub` `VS Code` `Postman` `Cloudinary` `Android Studio`
-
----
-
-# Projects
-
-## 01. Roxan AI
-
-### Intelligent Conversational Assistant
-
-Roxan AI is a **real-time intelligent conversational assistant** combining AI, persistent memory, real-time communication, authentication, and personalized user preferences.
-
-### Features
-
-* Local AI processing using Ollama
-* Llama 2 integration
-* Real-time chat using Socket.IO
-* JWT authentication
-* bcrypt password hashing
-* MongoDB chat history
-* Context-aware conversations
-* Preference memory
-* Feedback-based learning
-* Automatic chat title generation
-* Organized chat history
-* User settings
-* Responsive conversational UI
-
-### Technology
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `JWT` `bcrypt` `Ollama` `Llama 2`
-
----
-
-# 02. AI Voice Assistant
-
-### Gemini-Powered Voice Assistant
-
-A full-stack voice-controlled AI assistant that allows users to interact with an intelligent assistant using natural language.
-
-### Features
-
-* Google Gemini AI
-* Web Speech API
-* Speech recognition
-* Text-to-speech
-* Wake-word detection
-* Continuous listening
-* Real-time transcription
-* Assistant name customization
-* Assistant image customization
-* Cloudinary integration
-* JWT authentication
-* Cookie-based sessions
-* React Context API
-* REST APIs
-
-### Example Commands
-
-```text
-"What time is it?"
-"What's today's date?"
-"Open YouTube"
-"Open Instagram"
-"Search for Python"
-"Play a song on YouTube"
-"What is AI?"
-```
-
-### Technology
-
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Cloudinary` `Gemini AI` `Web Speech API`
-
----
-
-# 04. HASGUL Multiprises
-
-### One Platform — Infinite Solutions
-
-HASGUL Multiprises is a multi-sector service platform concept designed to bring multiple categories of services together through a single digital ecosystem.
-
-### Service Categories
-
-| Category      | Services                                                                                       |
-| ------------- | ---------------------------------------------------------------------------------------------- |
-| Agriculture   | Crop Cultivation, Soil Management, Organic Farming, High-Yield Production, Rice & Wheat Export |
-| Dairy         | Fresh Milk, Yogurt, Cheese, Paneer, Pure Ghee, Cold Chain Export                               |
-| Aquatic       | Water Lily, Lotus, Makhana Export, Pond Management, Ecosystem Restoration                      |
-| Prickly Crops | Cactus, Agave, Aloe Vera, Biofuel Production                                                   |
-| Academic      | Assignments, Research Papers, Thesis, Presentations                                            |
-| Professional  | Paralegal Services, One-on-One Consultation                                                    |
-| Personal      | Personal Work Assistance, Blind Date Assistance                                                |
-| Staffing      | Freelancer Hiring, Worker Hiring                                                               |
-
-### Platform Vision
-
-Create one platform where users can access multiple categories of services instead of relying on separate providers.
-
-### Technology Direction
-
-`MERN Stack` `REST APIs` `MongoDB` `Authentication`
-
----
-
-# 05. Student Record Management API
-
-A REST API for managing students, courses, and enrollments.
-
-### Features
-
-* Student CRUD
-* Course CRUD
-* Enrollment management
-* Search by name
-* Search by email
-* Search by phone
-* Filter by gender
-* Filter by city
-* Filter by state
-* Sorting
-* Pagination
-* Input validation
-* Statistics dashboard
-
----
-
-# 06. Contact Management System
-
-A backend application for managing personal and professional contacts.
-
-### Features
-
-* Contact CRUD
-* Search by name
-* Search by email
-* Search by phone
-* Category filtering
-* Favorite contacts
-* Tags
-* Duplicate prevention
-* Soft delete
-* Restore
-* Bulk creation
-* Pagination
-* Sorting
-* Statistics dashboard
-
----
-
-# 07. To-Do List Backend
-
-A task-management backend with authentication and protected routes.
-
-### Features
-
-* User registration
-* User login
-* JWT authentication
-* Protected routes
-* Task CRUD
-* Pending/completed status
-* Priority levels
-* Categories
-* Search
-* Due dates
-* Task statistics
-
----
-
-# 08. Weather Forecast Application
-
-A weather application that retrieves weather information through the OpenWeatherMap API.
-
-### Features
-
-* Location/weather search
-* API integration
-* Dynamic weather information
-* Responsive interface
-* PWA support
-* Web app manifest
-* Service worker
-* Caching
-* Offline-oriented functionality
-
-### Technology
-
-`HTML` `CSS` `JavaScript` `OpenWeatherMap API` `PWA` `Service Worker`
-
----
-
-# 09. Personal Tracker
-
-A personal activity and lifestyle tracking application.
-
-### Features
-
-* Step tracking
-* Distance tracking
-* Calories
-* Heart rate
-* Live location
-* Task tracking
-* Sleep tracking
-* Activity monitoring
-* Accelerometer-based step detection
-
-### Technology Direction
-
-`JavaScript` `Web APIs` `Location APIs` `Sensors`
-
----
-
-# 11. Personal Portfolio
-
-A personal developer portfolio designed to present my professional identity and work.
-
-### Sections
-
-* Home
-* About
-* Skills
-* Projects
-* Education
-* Achievements
-* Resume
-* Contact
-
-### Technology
-
-`HTML` `CSS` `JavaScript`
-
----
-
-# 12. Android Smart Update Application
-
-An Android application project developed using **Android Studio**.
-
-### Development Areas
-
-* Android application development
-* Gradle build system
-* Android SDK
-* Emulator testing
-* APK generation
-* Application deployment workflow
-
-### Technology
-
-`Android Studio` `Java/Kotlin` `Gradle` `Android SDK`
-
----
-
-# Education
-
-## Bachelor of Technology — Information Technology
-
----
-
-My goal is to combine:
-
-**Software Engineering + AI + Linux + Networking + Systems + Robotics + Entrepreneurship**
-
-to build useful technology and eventually create products and businesses of my own.
-
----
-
-
-
-# Connect
-
-<p align="left">
-  <a href="https://github.com/asaddizu1044-pixel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BTech Information Technology"/>
+  <img src="https://img.shields.io/badge/MERN-Full--Stack-4F46E5?style=for-the-badge&logo=react&logoColor=white" alt="MERN Full Stack"/>
+  <img src="https://img.shields.io/badge/AI-Systems-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Systems"/>
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=asaddizu1044-pixel&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/asaddizu1044-pixel?style=for-the-badge&color=4F46E5&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/asaddizu1044-pixel?style=for-the-badge&color=7C3AED&label=STARS" alt="Stars"/>
 
-<p align="center">
-  <strong>Md Dilkash</strong>
-</p>
+</div>
+
+<br/>
+
+🖥️ SYSTEM CONSOLE
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+FRONTEND
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=5" alt="HTML CSS JavaScript React Tailwind"/>
+
+<br/><br/>
+
+BACKEND
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman,socketio&theme=dark&perline=4" alt="Node.js Express Postman Socket.IO"/>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+DATABASE
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2" alt="MongoDB MySQL"/>
+
+<br/><br/>
+
+AI / SYSTEMS
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,java,c&theme=dark&perline=5" alt="Python Linux Bash Java C"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=for-the-badge&logo=statuspage&logoColor=white" alt="Current status"/>
+
+</div>
+
+<br/>
+
+⚡ BUILD IN MOTION
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+Currently in the loop:
+
+MERN Stack — building full-stack web applications
+
+AI Systems — developing conversational and AI-powered applications
+
+REST APIs — designing backend services and protected APIs
+
+MongoDB & MySQL — working with application data and database systems
+
+Linux — learning systems, shell, permissions, processes and administration
+
+Networking — strengthening OSI, TCP/IP, DNS, HTTP/HTTPS and routing concepts
+
+Android — exploring Android application development and deployment
+
+I learn primarily by building projects, solving implementation problems, and iterating on working systems.
+
+</td>
+
+<td width="45%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+🧩 TECHNOLOGY UNIVERSE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=5" alt="Frontend technologies"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark&perline=4" alt="Backend and databases"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=java,c,python,linux,bash&theme=dark&perline=5" alt="Programming and systems"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio&theme=dark&perline=5" alt="Development tools"/>
+<br/>
+<img src="https://img.shields.io/badge/Google%20Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+<img src="https://img.shields.io/badge/Ollama-Local%20AI-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Web%20Speech%20API-Voice%20AI-7C3AED?style=for-the-badge" alt="Web Speech API"/>
+
+</div>
+
+<br/>
+
+🧬 SYSTEM FLOW
+
+<table>
+<tr>
+
+<td align="center">
+USER
+<br/>
+<sub>EXPERIENCE</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" alt="Frontend layer"/>
+<br/>
+<sub>FRONTEND</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark&perline=2" alt="Backend layer"/>
+<br/>
+<sub>API / BACKEND</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2" alt="Database layer"/>
+<br/>
+<sub>DATA</sub>
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<sub>
+AI CORE → Gemini · Ollama · Llama 2 · Conversational AI
+&nbsp;&nbsp;|&nbsp;&nbsp;
+ENGINEERING → MERN · REST APIs · Linux · Networking
+</sub>
+
+</div>
+
+<br/>
+
+🚀 FEATURED BUILDS
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🧠 Roxan AI
+
+Intelligent Conversational Assistant
+
+An intelligent conversational assistant focused on local AI processing and context-aware conversations.
+
+Stack
+
+React.js Node.js Express.js MongoDB Socket.IO JWT Ollama Llama 2
+
+Features
+
+Local AI processing using Ollama
+
+Real-time chat with Socket.IO
+
+JWT authentication
+
+MongoDB chat history
+
+Context-aware conversations
+
+Preference memory
+
+Feedback-based learning
+
+</td>
+
+<td width="50%" valign="top">
+
+🎙️ AI Voice Assistant
+
+Gemini-Powered Voice Assistant
+
+A full-stack voice-controlled assistant using natural language.
+
+Stack
+
+React.js Tailwind CSS Node.js Express.js MongoDB Gemini AI
+
+Features
+
+Speech recognition
+
+Text-to-speech
+
+Wake-word detection
+
+Continuous listening
+
+Real-time transcription
+
+Cloudinary customization
+
+REST APIs
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🌾 HASGUL Multiprises
+
+One Platform — Infinite Solutions
+
+A multi-sector service platform concept covering agriculture, dairy, aquatic, academic, professional, personal and staffing services.
+
+Stack
+
+MERN Stack REST APIs MongoDB Authentication
+
+</td>
+
+<td width="50%" valign="top">
+
+🎓 Student Record Management API
+
+REST API for Student Management
+
+A REST API for students, courses and enrollments.
+
+Features
+
+Student CRUD
+
+Course CRUD
+
+Enrollment management
+
+Search and filtering
+
+Sorting
+
+Pagination
+
+Input validation
+
+Statistics dashboard
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+📇 Contact Management System
+
+Personal & Professional Contact Backend
+
+A backend system for managing contacts with search, categories, favorites, tags, duplicate prevention, soft delete and restore.
+
+Stack
+
+Node.js Express.js MongoDB REST API
+
+</td>
+
+<td width="50%" valign="top">
+
+✅ To-Do List Backend
+
+Task Management Backend
+
+A protected task-management backend with authentication and task organization.
+
+Features
+
+Registration and login
+
+JWT authentication
+
+Protected routes
+
+Task CRUD
+
+Priorities
+
+Categories
+
+Search
+
+Due dates
+
+Task statistics
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🌦️ Weather Forecast Application
+
+Weather & PWA Application
+
+A weather application using the OpenWeatherMap API.
+
+Features
+
+Location/weather search
+
+Dynamic weather information
+
+Responsive interface
+
+PWA support
+
+Service worker
+
+Caching
+
+Offline-oriented functionality
+
+Stack
+
+HTML CSS JavaScript OpenWeatherMap API PWA
+
+</td>
+
+<td width="50%" valign="top">
+
+📊 Personal Tracker
+
+Personal Activity & Lifestyle Tracking
+
+A personal tracking application focused on activity monitoring.
+
+Features
+
+Step tracking
+
+Distance
+
+Calories
+
+Heart rate
+
+Live location
+
+Task tracking
+
+Sleep tracking
+
+Accelerometer-based step detection
+
+Stack
+
+JavaScript Web APIs Location APIs Sensors
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+💻 Personal Portfolio
+
+Developer Portfolio
+
+A personal developer portfolio containing Home, About, Skills, Projects, Education, Achievements, Resume and Contact sections.
+
+Stack
+
+HTML CSS JavaScript
+
+</td>
+
+<td width="50%" valign="top">
+
+📱 Android Smart Update Application
+
+Android Application Development
+
+An Android Studio project covering Android application development and deployment workflow.
+
+Focus
+
+Android app development
+
+Gradle build system
+
+Android SDK
+
+Emulator testing
+
+APK generation
+
+Application deployment workflow
+
+Stack
+
+Android Studio Java/Kotlin Gradle Android SDK
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+📡 LIVE BUILD SIGNAL
+
+<div align="center">
+
+<a href="https://github.com/asaddizu1044-pixel?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+<a href="https://github.com/asaddizu1044-pixel?tab=activity">
+<img src="https://img.shields.io/badge/ACTIVITY-OPEN-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Open activity"/>
+</a>
+
+<br/><br/>
+
+Stage
+
+Status
+
+LEARN — strengthen engineering fundamentals
+
+ACTIVE
+
+BUILD — full-stack and AI projects
+
+ACTIVE
+
+EXPLORE — Linux, Networking & Systems
+
+ACTIVE
+
+IMPLEMENT — turn concepts into working systems
+
+ACTIVE
+
+ITERATE — improve projects continuously
+
+ACTIVE
+
+</div>
+
+<br/>
+
+🧠 AI / SYSTEMS ENGINEERING
+
+Domain
+
+Focus
+
+MERN Stack
+
+Full-stack web application development
+
+React.js
+
+Frontend development and application interfaces
+
+Node.js / Express.js
+
+Backend development and REST APIs
+
+MongoDB / MySQL
+
+Database development and data management
+
+Google Gemini
+
+AI-powered applications
+
+Ollama / Llama 2
+
+Local AI and conversational systems
+
+Web Speech API
+
+Voice recognition and speech interfaces
+
+Linux
+
+Shell, permissions, processes, services and administration
+
+Networking
+
+OSI, TCP/IP, DNS, HTTP/HTTPS, IP addressing and routing
+
+Android
+
+Android application development and deployment
+
+<br/>
+
+📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<a href="https://github.com/asaddizu1044-pixel">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=asaddizu1044-pixel&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="Md Dilkash GitHub statistics"/>
+</a>
+
+<a href="https://github.com/asaddizu1044-pixel">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddizu1044-pixel&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Md Dilkash top languages"/>
+</a>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=asaddizu1044-pixel&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="Md Dilkash GitHub streak"/>
+
+</div>
+
+<br/>
+
+🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=asaddizu1044-pixel&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
+
+</div>
+
+<br/>
+
+🟩 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asaddizu1044-pixel&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%"/>
+
+<a href="https://github.com/asaddizu1044-pixel">
+<img src="https://img.shields.io/badge/OPEN%20REAL%20GITHUB%20ACTIVITY-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Open real GitHub activity"/>
+</a>
+
+</div>
+
+<br/>
+
+🎯 CURRENT FOCUS
+
+profile:
+  name: Md Dilkash
+  role: MERN Developer | Full-Stack Developer
+  focus: Software Engineering + AI + Systems
+
+learning:
+  - Advanced MERN Stack
+  - Artificial Intelligence
+  - Linux
+  - Networking
+  - Systems
+  - Robotics
+
+building:
+  - AI Conversational Applications
+  - Voice Assistant
+  - REST APIs
+  - Full-Stack Applications
+  - Android Applications
+
+exploring:
+  - Local AI
+  - Conversational AI
+  - Linux Systems
+  - Network Security
+  - Backend Architecture
+  - Robotics
+
+open_to:
+  - Software Engineering Opportunities
+  - Full-Stack Development
+  - AI Projects
+  - Collaborative Development
+  - Open Source
+
+<br/>
+
+🎯 MY GOAL
+
+<div align="center">
+
+Software Engineering + AI + Linux + Networking + Systems + Robotics + Entrepreneurship
+
+<br/>
+
+Building useful technology and eventually creating products and businesses of my own.
+
+</div>
+
+<br/>
+
+📡 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/asaddizu1044-pixel">
+<img src="https://img.shields.io/badge/GITHUB-asaddizu1044--pixel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1400&color=8B5CF6&background=0D1117&center=true&vCenter=true&width=700&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+ITERATE;Always+learning;Always+building;Always+improving" alt="Animated closing message"/>
+
+<br/>
+
+<sub>Building practical software while exploring intelligent systems, Linux, networking and emerging technologies.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,16,18" width="100%" alt="Footer banner"/>
+
+</div>
