@@ -1,5 +1,3 @@
-<div align="center">
-
 <!--
   Md Dilkash | GitHub Profile README
   MERN Developer | Full-Stack Developer | AI & Systems Enthusiast | Linux & Networking
@@ -41,9 +39,11 @@
 
 <br/>
 
+<div align="center">
+
 🖥️ SYSTEM CONSOLE
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top" align="center">
 
@@ -53,7 +53,7 @@ FRONTEND
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark&perline=5" alt="HTML CSS JavaScript React Tailwind"/>
 
-<br/><br/>
+<br/>
 
 BACKEND
 
@@ -71,7 +71,7 @@ DATABASE
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2" alt="MongoDB MySQL"/>
 
-<br/><br/>
+<br/>
 
 AI / SYSTEMS
 
@@ -83,17 +83,17 @@ AI / SYSTEMS
 </tr>
 </table>
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=for-the-badge&logo=statuspage&logoColor=white" alt="Current status"/>
 
 </div>
 
 <br/>
 
+<div align="center">
+
 ⚡ BUILD IN MOTION
 
-<table>
+<table align="center">
 <tr>
 <td width="55%" valign="top">
 
@@ -118,6 +118,8 @@ I learn primarily by building projects, solving implementation problems, and ite
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 🧩 TECHNOLOGY UNIVERSE
@@ -140,9 +142,11 @@ I learn primarily by building projects, solving implementation problems, and ite
 
 <br/>
 
+<div align="center">
+
 🧬 SYSTEM FLOW
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center">
@@ -178,8 +182,6 @@ USER
 </tr>
 </table>
 
-<div align="center">
-
 <sub>
 AI CORE → Gemini · Ollama · Llama 2 · Conversational AI
 &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -190,11 +192,14 @@ ENGINEERING → MERN · REST APIs · Linux · Networking
 
 <br/>
 
-🚀 FEATURED BUILDS
-
 <div align="center">
 
-<table>
+🚀 FEATURED BUILDS
+
+<table align="center">
+
+<!-- featured builds -->
+
 <tr>
 <td width="50%" valign="top">
 
@@ -221,32 +226,21 @@ Stack: React.js · Tailwind CSS · Node.js · Express.js · MongoDB · Gemini AI
 </tr>
 
 <tr>
-
-<td width="50%" valign="top">
-
-03 — HASGUL Multiprises
-
-One Platform — Infinite Solutions
-
-Multi-sector service platform concept covering agriculture, dairy, aquatic, academic, professional, personal, and staffing services.
-
-Stack: MERN · REST APIs · MongoDB · Authentication
-
+<td width="50%" valign="top" align="left">
+<b>03 — HASGUL Multiprises</b><br>
+One Platform — Infinite Solutions<br><br>
+Multi-sector service platform concept covering agriculture, dairy, aquatic, academic, professional, personal, and staffing services.<br><br>
+<b>Stack:</b> MERN · REST APIs · MongoDB · Authentication
+</td>
+<td width="50%" valign="top" align="left">
+<b>04 — Student Record Management API</b><br>
+REST API for Student Management<br><br>
+API for students, courses, and enrollments with CRUD, search, filtering, sorting, pagination, validation, and statistics.<br><br>
+<b>Stack:</b> Node.js · Express.js · MongoDB · REST API
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
-
-04 — Student Record Management API
-
-REST API for Student Management
-
-API for students, courses, and enrollments with CRUD, search, filtering, sorting, pagination, validation, and statistics.
-
-Stack: Node.js · Express.js · MongoDB · REST API
-
-</td>
 <td width="50%" valign="top">
 
 05 — Contact Management System
@@ -258,9 +252,6 @@ Contact backend with CRUD, search, categories, favorites, tags, duplicate preven
 Stack: Node.js · Express.js · MongoDB · REST API
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 06 — To-Do List Backend
@@ -272,6 +263,9 @@ Authenticated task-management backend with JWT, protected routes, task CRUD, pri
 Stack: Node.js · Express.js · MongoDB · JWT · REST API
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 07 — Weather Forecast Application
@@ -283,9 +277,6 @@ Weather application using OpenWeatherMap with responsive UI, PWA support, servic
 Stack: HTML · CSS · JavaScript · OpenWeatherMap API · PWA
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 08 — Personal Tracker
@@ -297,6 +288,9 @@ Activity-tracking application covering steps, distance, calories, heart rate, li
 Stack: JavaScript · Web APIs · Location APIs · Sensors
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 09 — Personal Portfolio
@@ -308,9 +302,6 @@ Personal portfolio presenting profile, skills, projects, education, achievements
 Stack: HTML · CSS · JavaScript
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 10 — Android Smart Update Application
@@ -329,7 +320,11 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 <br/>
 
+<div align="center">
+
 📡 LIVE BUILD SIGNAL
+
+</div>
 
 <div align="center">
 
@@ -340,8 +335,6 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 <a href="https://github.com/asaddizu1044-pixel?tab=activity">
 <img src="https://img.shields.io/badge/ACTIVITY-OPEN-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Open activity"/>
 </a>
-
-<br/><br/>
 
 <br/>
 
@@ -357,7 +350,7 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaddizu1044-pixel&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Md Dilkash top languages"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=asaddizu1044-pixel&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="Md Dilkash GitHub streak"/>
 
@@ -389,7 +382,7 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 <br/>
 
-CURRENT FOCUS
+🎯 CURRENT FOCUS
 
 AREA
 
@@ -420,6 +413,7 @@ Open To
 Software Engineering Opportunities · Full-Stack Development · AI Projects · Collaborative Development · Open Source
 
 <br/>
+
 🎯 MY GOAL
 
 <div align="center">
@@ -454,7 +448,7 @@ Building useful technology and eventually creating products and businesses of my
 
 <sub>Building practical software while exploring intelligent systems, Linux, networking and emerging technologies.</sub>
 
-<br/><br/>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,16,18" width="100%" alt="Footer banner"/>
 
