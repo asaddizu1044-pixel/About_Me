@@ -322,7 +322,6 @@ Android Studio project covering Android development, Android SDK, Gradle, emulat
 Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -390,67 +389,37 @@ Stack: Android Studio · Java/Kotlin · Gradle · Android SDK
 
 <br/>
 
-🎯 CURRENT FOCUS
+CURRENT FOCUS
 
-profile:
-name: Md Dilkash
-role: MERN Developer | Full-Stack Developer
-focus: Software Engineering + AI + Systems
+AREA
 
-learning:
+FOCUS
 
-Advanced MERN Stack
+Role
 
-Artificial Intelligence
+MERN Developer · Full-Stack Developer
 
-Linux
+Core
 
-Networking
+Software Engineering · AI · Systems
 
-Systems
+Learning
 
-Robotics
+Advanced MERN · Artificial Intelligence · Linux · Networking · Systems · Robotics
 
-building:
+Building
 
-AI Conversational Applications
+AI Conversational Applications · Voice Assistant · REST APIs · Full-Stack Applications · Android Applications
 
-Voice Assistant
+Exploring
 
-REST APIs
+Local AI · Conversational AI · Linux Systems · Network Security · Backend Architecture · Robotics
 
-Full-Stack Applications
+Open To
 
-Android Applications
-
-exploring:
-
-Local AI
-
-Conversational AI
-
-Linux Systems
-
-Network Security
-
-Backend Architecture
-
-Robotics
-
-open_to:
-
-Software Engineering Opportunities
-
-Full-Stack Development
-
-AI Projects
-
-Collaborative Development
-
-Open Source
+Software Engineering Opportunities · Full-Stack Development · AI Projects · Collaborative Development · Open Source
 
 <br/>
-
 🎯 MY GOAL
 
 <div align="center">
